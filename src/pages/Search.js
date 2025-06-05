@@ -11,7 +11,7 @@ export const Search = ({apiPath}) => {
   return (
     <div>
         <main>
-          <section className=" py-7">
+          <section className="py-7">
             <p className="text-3xl text-gray-700 dark:text-white">{ movies.length ===0 ? `No result found for '${ queryTerm }'` : `Result for '${ queryTerm }'` }</p>
           </section>
           <section className="max-w-7xl mx-auto py-5">

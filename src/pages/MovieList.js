@@ -9,7 +9,6 @@ export const MovieList = ({apiPath, title}) => {
     document.title = `${title}`
   })
 
-
   return (
     <div>
         <main>
