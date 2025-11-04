@@ -8,10 +8,10 @@ export const Footer = () => {
         </span>
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
             <li>
-                <a href="https://www.instagram.com/te.rrance4203/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">Instagram</a>
+                <a href="https://github.com/TERRANCE631" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">GitHub</a>
             </li>
             <li>
-                <a href="https://m.facebook.com/siyabonga.tarrance/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">Facebook</a>
+                <a href="https://www.linkedin.com/in/terrance-nkalanga-232138253/" target="_blank" rel="noreferrer" className="hover:underline me-4 md:me-6">LinkedIn</a>
             </li>
         </ul>
         </div>
